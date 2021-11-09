@@ -1,0 +1,3 @@
+R5T.T0083.Construction - Construction project for IConfigurationSource extension method base..
+
+GOALS:
